@@ -1,0 +1,8 @@
+-`npm init`
+-`npm install express typescript ts-node @types/node @types/express --save-dev`
+-`npm install --save @types/cors`
+-configure tsconfig.json
+-configure package.json ( scripts )
+-write index.ts
+
+Reference : https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln
