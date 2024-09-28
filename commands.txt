@@ -1,6 +1,6 @@
 -`npm init`
 -`npm install express typescript ts-node @types/node @types/express --save-dev`
--`npm install --save @types/cors`
+-`npm install --save @types/cors mysql2`
 -configure tsconfig.json
 -configure package.json ( scripts )
 -write index.ts
